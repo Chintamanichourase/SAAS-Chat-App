@@ -1,5 +1,4 @@
 # GLOCAL- AI Chat App with Real-Time Translation
-### Live Link - [https://glocal-ai-deepak-kushwaha.vercel.app/](https://glocal-ai-deepak-kushwaha.vercel.app/)
 
 ## Overview
 Glocal enables users to engage in conversations without the hindrance of language barriers and makes communication more accessible to individuals from different linguistic backgrounds.
